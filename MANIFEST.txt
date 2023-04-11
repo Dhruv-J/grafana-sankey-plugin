@@ -12,12 +12,12 @@ Hash: SHA512
   ],
   "plugin": "theia-grafana-sankey-plugin",
   "version": "1.0.1",
-  "time": 1681155299633,
+  "time": 1681230213884,
   "keyId": "7e4d0c6a708866e7",
   "files": {
     "CHANGELOG.md": "0bb1ec444e945f5f7605724c4007f1622b670fa4ad1495908e96b5bcc0638f21",
     "module.js.map": "5faf3b303902996a2fdf8d53e723cefd515dc5f54e3416b4b61872b4d4427c3d",
-    "plugin.json": "962287ee18b6de4e0577c63a8644b3385d45e804331fee21997dbd0b319e5872",
+    "plugin.json": "9fcc7d0048a1bf8220df935c80e768fa99e872927fdf29d66f5b44a210e6183d",
     "README.md": "a2375fbfae21f056557fa53a90b82f2bec3ddcfc020524b9cd2de742de4f7f1c",
     "module.js": "d29eba1095367a08547d138b89cd5cde7f721bfed039f572ee521e2543ba799b"
   }
@@ -26,10 +26,10 @@ Hash: SHA512
 Version: OpenPGP.js v4.10.10
 Comment: https://openpgpjs.org
 
-wrcEARMKAAYFAmQ0ZOMAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
-cIhm51rLAgdJPbTJSslEG8iCYnsA+QjtKxlK6zuRD5sGfqBi5qV1C82Nw9gp
-cSxqF4IabfGW7svjiasTW3t6Tp1UTEhtjGZ2GQIHZYEWnvljrMrxpW9v5GlL
-UbEpMQB/YoIT89AE8WZ1USUGADaT63w6Uj9fZEEuC1jAH2W7hmNFc8MKm+T0
-PIIrvm8=
-=fusu
+wrcEARMKAAYFAmQ1iYYAIQkQfk0ManCIZucWIQTzOyW2kQdOhGNlcPN+TQxq
+cIhm51ElAgilwnpLXbfii02wCiNRdNyAl0cKueBCNqZPAStNtYSFOUGbz1lJ
+L+uwFm0BsrE0UsPmHGpDs5nRDdZywWaktOYTpwIDBGN3s8EasayfyruyFVXS
+/JesgE5dOSmkwTpC52WjWMInaAoYoZ2eTQq135cewZC5MhNYQ7OjyglPlANL
+nQmb/4I=
+=BbGL
 -----END PGP SIGNATURE-----
